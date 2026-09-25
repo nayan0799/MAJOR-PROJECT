@@ -1,0 +1,7 @@
+.venv/
+labelimg-env/
+__pycache__/
+*.pyc
+runs/
+backend/detections/*
+!backend/detections/.gitkeep
